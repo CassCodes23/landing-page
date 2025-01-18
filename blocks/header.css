@@ -18,6 +18,7 @@
 .header-title {
   max-width: 729px;
   font-size: 60px;
+  font-weight: 600;
   line-height: 72px;
   letter-spacing: 1.2px;
   margin: 183px 0 0;
@@ -37,27 +38,30 @@
 .header-description {
   max-width: 683px;
   font-family: "Advent Pro", serif;
-  font-size: 24px;
-  letter-spacing: 1.2px;
-  font-weight: 600;
+  font-size: 32px;
   line-height: 30px;
-  margin: 28px 0 0;
+  font-weight: 400;
+  letter-spacing: 1.2px;
+    margin: 28px 0 0;
 }
 
 .header-image {
   position: absolute;
-  width: 646px;
-  height: 568px;
-  top: 124px;
-  right: 5px;
+  width: 600px;
+  height: 600px;
+  top: 100px;
+  right: 100px;
   z-index: -1;
 }
 
 .header-footer {
+  line-height: 30px;
+  letter-spacing: 1.2px;
   display: flex;
   justify-content: space-between;
   margin-top: auto;
-  font-weight: 500;
+  font-size: 14px;
+  font-weight: 700;
   color: #838383;
   list-style-type: none;
 }

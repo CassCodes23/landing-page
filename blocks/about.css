@@ -1,0 +1,28 @@
+.about {
+	font-family: "Advent Pro", serif;
+	padding: 100px 80px 215px;
+	background-color: var(--light-01);
+	color: var(--text-01);
+}
+
+.about-title {
+  max-width: 580px;
+	margin-bottom: 20px;
+	font-weight: 600;
+	font-size: 44px;
+	line-height: 52px;
+	letter-spacing: 1.8px;
+}
+
+.about-description {
+  margin-top: 20px;
+	font-family: "Advent Pro", serif;
+	line-height: 30px;
+	max-width: 580px;
+	font-size: 32px;
+	font-weight: 500;
+	line-height: 30px;
+	letter-spacing: 1.2px;
+}
+
+

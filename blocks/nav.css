@@ -7,7 +7,9 @@
 	padding: 0 var(--pg-margin);
 	z-index: 100;
 	border-radius: 100px;
-	box-shadow: var(--card-shadow);
+	box-shadow: var(--box-shadow);
+	line-height: 30px;
+  letter-spacing: 1.2px;
 }
 
 .nav-links {

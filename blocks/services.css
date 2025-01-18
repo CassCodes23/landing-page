@@ -1,0 +1,92 @@
+.content {
+	font-family: "Advent Pro", serif;
+	background-color: var(--light-01);
+	color: var(--text-01);
+}
+
+.services {
+	margin-top: 20px;
+	font-family: "Advent Pro", serif;
+	padding: 100px 80px 215px;
+	background-color: var(--light-01);
+	background-image: url(../images/background_recipes.svg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	color: var(--text-01);
+}
+
+.services-title {
+	max-width: 580px;
+	margin: 0;
+	font-weight: 600;
+	font-size: 40px;
+	line-height: 52px;
+	letter-spacing: 1.8px;
+}
+
+.services-subtitle {
+	margin-top: 20px;
+	margin-bottom: 80px;
+	font-family: "Advent Pro", serif;
+	line-height: 30px;
+	font-weight: 500;
+	max-width: 580px;
+	font-size: 32px;
+	line-height: 30px;
+	letter-spacing: 1.2px;
+}
+
+.service {
+	font-family: "Advent Pro", serif;
+	line-height: 30px;
+	letter-spacing: 1.2px;
+  padding: auto;
+}
+
+.service-title {
+  font-weight: 600;
+  font-size: 30px;
+  padding-bottom: 10px;
+  margin-top: 40px;
+}
+
+.service-description {
+  font-size: 32px;
+  font-weight: 500;
+  padding-bottom: 20px;
+  margin-top: 10px;
+	line-height: 30px;
+	letter-spacing: 1.2px;
+}
+
+.service-subtitle {
+  font-size: 32px;
+  font-weight: 600;
+  font-style: oblique;
+  padding-bottom: 20px;
+  margin-top: 20px;
+}
+
+.service-list {
+  font-size: 26px;
+  font-weight: 500;
+  padding-bottom: 20px;
+  list-style-type: circle;
+}
+
+.service-item {
+  padding-bottom: 20px;
+  margin-left: 40px;
+}
+
+.service-care {
+  font-style: oblique;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.care {
+  font-size: 24px;
+  font-weight: 700;
+}

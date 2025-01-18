@@ -2,10 +2,11 @@
 	--text-01: #45413e;
 	--light-01: #fff9f9;
 	--light-02: #ffffff;
-	--brand-01: #5DE3A9;
+	--brand-01: #FF8f7C;
 	--brand-02: #f4cfc6;
 	--card-hover: 0px 4px 24px rgba(0, 0, 0, 0.15);
 	--card-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);
+	--box-shadow: 0px 4px 16px rgba(255, 143, 124, 0.3);
 	--hover-timing: all 0.2s ease;
 	--nav-card-size: 240px;
 
@@ -28,7 +29,7 @@
   line-height: 20px;
 	transition: var(--hover-timing);
 	background: var(--light-01);
-	letter-spacing: 1.5px;
+	width: 100%;
 }
 
 
